@@ -20,5 +20,5 @@ export default {
       this.licznik++
     }
   }
-}
+} 
 </script>
